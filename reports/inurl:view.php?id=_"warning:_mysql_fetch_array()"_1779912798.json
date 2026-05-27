@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "target": "inurl:view.php?id= \"warning: mysql_fetch_array()\"",
+    "timestamp": "2026-05-27 20:13:18 UTC",
+    "tool": "Cyber-Eagle"
+  },
+  "risk": {
+    "score": 40,
+    "level": "MEDIUM",
+    "breakdown": {
+      "social_presence": 40,
+      "dork_hits": 0,
+      "domain_data": 0,
+      "cross_platform": 0,
+      "sensitive_indicators": 0,
+      "account_age": 0
+    }
+  },
+  "profiles": [
+    {
+      "platform": "Steam",
+      "url": "https://steamcommunity.com/id/inurl:view.php?id= \"warning: mysql_fetch_array()\"",
+      "status": 200,
+      "found": true,
+      "display_name": null
+    },
+    {
+      "platform": "Dailymotion",
+      "url": "https://www.dailymotion.com/inurl:view.php?id= \"warning: mysql_fetch_array()\"",
+      "status": 200,
+      "found": true,
+      "display_name": null
+    },
+    {
+      "platform": "Spotify",
+      "url": "https://open.spotify.com/user/inurl:view.php?id= \"warning: mysql_fetch_array()\"",
+      "status": 200,
+      "found": true,
+      "display_name": null
+    },
+    {
+      "platform": "Duolingo",
+      "url": "https://www.duolingo.com/profile/inurl:view.php?id= \"warning: mysql_fetch_array()\"",
+      "status": 200,
+      "found": true,
+      "display_name": null
+    },
+    {
+      "platform": "Hackerrank",
+      "url": "https://www.hackerrank.com/inurl:view.php?id= \"warning: mysql_fetch_array()\"",
+      "status": 200,
+      "found": true,
+      "display_name": null
+    },
+    {
+      "platform": "Reddit [INURL:VIEW.PHP?ID= \"WARNING: MYSQL_FETCH_ARRAY()\"]",
+      "url": "https://www.reddit.com/user/INURL:VIEW.PHP?ID= \"WARNING: MYSQL_FETCH_ARRAY()\"",
+      "status": 200,
+      "found": true,
+      "display_name": null
+    },
+    {
+      "platform": "Reddit [inurl:viewphp?id=\"warning:mysqlfetcharray()\"]",
+      "url": "https://www.reddit.com/user/inurl:viewphp?id=\"warning:mysqlfetcharray()\"",
+      "status": 200,
+      "found": true,
+      "display_name": null
+    },
+    {
+      "platform": "Reddit [array()\"fetchmysql\"warning:php?id=inurl:view]",
+      "url": "https://www.reddit.com/user/array()\"fetchmysql\"warning:php?id=inurl:view",
+      "status": 200,
+      "found": true,
+      "display_name": null
+    },
+    {
+      "platform": "Reddit [inurl:view.php?id= \"warning: mysql_fetch_array()\"]",
+      "url": "https://www.reddit.com/user/inurl:view.php?id= \"warning: mysql_fetch_array()\"",
+      "status": 200,
+      "found": true,
+      "display_name": null
+    },
+    {
+      "platform": "Reddit",
+      "url": "https://www.reddit.com/user/inurl:view.php?id= \"warning: mysql_fetch_array()\"",
+      "status": 200,
+      "found": true,
+      "display_name": null
+    },
+    {
+      "platform": "Reddit [Inurl:view.php?id= \"warning: mysql_fetch_array()\"]",
+      "url": "https://www.reddit.com/user/Inurl:view.php?id= \"warning: mysql_fetch_array()\"",
+      "status": 200,
+      "found": true,
+      "display_name": null
+    },
+    {
+      "platform": "Xbox",
+      "url": "https://account.xbox.com/en-US/profile?gamertag=inurl:view.php?id= \"warning: mysql_fetch_array()\"",
+      "status": 200,
+      "found": true,
+      "display_name": null
+    },
+    {
+      "platform": "Telegram",
+      "url": "https://t.me/inurl:view.php?id= \"warning: mysql_fetch_array()\"",
+      "status": 200,
+      "found": true,
+      "display_name": null
+    }
+  ],
+  "dorks": [],
+  "domain": {}
+}

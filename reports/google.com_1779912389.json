@@ -1,0 +1,177 @@
+{
+  "meta": {
+    "target": "google.com",
+    "timestamp": "2026-05-27 20:06:29 UTC",
+    "tool": "Cyber-Eagle"
+  },
+  "risk": {
+    "score": 40,
+    "level": "MEDIUM",
+    "breakdown": {
+      "social_presence": 40,
+      "dork_hits": 0,
+      "domain_data": 0,
+      "cross_platform": 0,
+      "sensitive_indicators": 0,
+      "account_age": 0
+    }
+  },
+  "profiles": [
+    {
+      "platform": "Steam",
+      "url": "https://steamcommunity.com/id/google.com",
+      "status": 200,
+      "found": true,
+      "display_name": null
+    },
+    {
+      "platform": "Medium [GOOGLE.COM]",
+      "url": "https://medium.com/@GOOGLE.COM",
+      "status": 200,
+      "found": true,
+      "display_name": null
+    },
+    {
+      "platform": "Medium [Google.com]",
+      "url": "https://medium.com/@Google.com",
+      "status": 200,
+      "found": true,
+      "display_name": null
+    },
+    {
+      "platform": "Medium",
+      "url": "https://medium.com/@google.com",
+      "status": 200,
+      "found": true,
+      "display_name": null
+    },
+    {
+      "platform": "Dailymotion",
+      "url": "https://www.dailymotion.com/google.com",
+      "status": 200,
+      "found": true,
+      "display_name": null
+    },
+    {
+      "platform": "GitHub [googlecom]",
+      "url": "https://github.com/googlecom",
+      "status": 200,
+      "found": true,
+      "display_name": null
+    },
+    {
+      "platform": "GitHub [comgoogle]",
+      "url": "https://github.com/comgoogle",
+      "status": 200,
+      "found": true,
+      "display_name": null
+    },
+    {
+      "platform": "Duolingo",
+      "url": "https://www.duolingo.com/profile/google.com",
+      "status": 200,
+      "found": true,
+      "display_name": null
+    },
+    {
+      "platform": "Snapchat",
+      "url": "https://www.snapchat.com/add/google.com",
+      "status": 200,
+      "found": true,
+      "display_name": null
+    },
+    {
+      "platform": "Reddit [google.com]",
+      "url": "https://www.reddit.com/user/google.com",
+      "status": 200,
+      "found": true,
+      "display_name": null
+    },
+    {
+      "platform": "Reddit [Google.com]",
+      "url": "https://www.reddit.com/user/Google.com",
+      "status": 200,
+      "found": true,
+      "display_name": null
+    },
+    {
+      "platform": "Reddit [GOOGLE.COM]",
+      "url": "https://www.reddit.com/user/GOOGLE.COM",
+      "status": 200,
+      "found": true,
+      "display_name": null
+    },
+    {
+      "platform": "Reddit [comgoogle]",
+      "url": "https://www.reddit.com/user/comgoogle",
+      "status": 200,
+      "found": true,
+      "display_name": null
+    },
+    {
+      "platform": "Reddit",
+      "url": "https://www.reddit.com/user/google.com",
+      "status": 200,
+      "found": true,
+      "display_name": null
+    },
+    {
+      "platform": "Spotify",
+      "url": "https://open.spotify.com/user/google.com",
+      "status": 200,
+      "found": true,
+      "display_name": null
+    },
+    {
+      "platform": "Telegram",
+      "url": "https://t.me/google.com",
+      "status": 200,
+      "found": true,
+      "display_name": null
+    },
+    {
+      "platform": "Reddit [googlecom]",
+      "url": "https://www.reddit.com/user/googlecom",
+      "status": 200,
+      "found": true,
+      "display_name": null
+    },
+    {
+      "platform": "Quora",
+      "url": "https://www.quora.com/profile/google.com",
+      "status": 200,
+      "found": true,
+      "display_name": null
+    },
+    {
+      "platform": "Medium [google.com]",
+      "url": "https://medium.com/@google.com",
+      "status": 200,
+      "found": true,
+      "display_name": null
+    },
+    {
+      "platform": "Medium [googlecom]",
+      "url": "https://medium.com/@googlecom",
+      "status": 200,
+      "found": true,
+      "display_name": null
+    },
+    {
+      "platform": "Xbox",
+      "url": "https://account.xbox.com/en-US/profile?gamertag=google.com",
+      "status": 200,
+      "found": true,
+      "display_name": null
+    },
+    {
+      "platform": "Hackerrank",
+      "url": "https://www.hackerrank.com/google.com",
+      "status": 200,
+      "found": true,
+      "display_name": null
+    }
+  ],
+  "dorks": [],
+  "domain": {}
+}

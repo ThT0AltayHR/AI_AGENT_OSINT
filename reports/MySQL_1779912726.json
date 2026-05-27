@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "target": "MySQL",
+    "timestamp": "2026-05-27 20:12:06 UTC",
+    "tool": "Cyber-Eagle"
+  },
+  "risk": {
+    "score": 0,
+    "level": "LOW",
+    "breakdown": {
+      "social_presence": 0,
+      "dork_hits": 0,
+      "domain_data": 0,
+      "cross_platform": 0,
+      "sensitive_indicators": 0,
+      "account_age": 0
+    }
+  },
+  "profiles": [],
+  "dorks": [],
+  "domain": {}
+}
