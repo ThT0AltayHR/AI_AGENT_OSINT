@@ -1,7 +1,7 @@
 <div align="center">
 
 ### 🇹🇷 Turkhackteam.org İthafı
-*Bu proje, Türkiye'nin en köklü siber güvenlik ve bilişim platformu olan **Turkhackteam.org** topluluğuna adanmıştır. Bilgiye ve açık kaynaklı istihbarata verdiğimiz değer, THT misyonunun bir parçasıdır.*
+*Bu proje, Türkiye'nin en köklü siber güvenlik ve bilişim platformu olan **Turkhackteam.org** topluluğuna adanmıştır. Bilgiye ve açık kaynaklı istihbarata verdiğimiz değer, THT misyonunun bir parçası olmayı planlar.*
 
 [![Turkhackteam](https://img.shields.io/badge/Official-Turkhackteam.org-red.svg)](https://www.turkhackteam.org)
 
